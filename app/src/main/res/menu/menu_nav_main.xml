@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/nav_gift"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:title="Gifts"/>
+    <item android:id="@+id/nav_message"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Messages"/>
+    <item android:id="@+id/nav_notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notifications"/>
+    <item android:id="@+id/nav_account"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Account"/>
+</menu>
